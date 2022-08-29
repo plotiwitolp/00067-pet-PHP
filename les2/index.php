@@ -12,3 +12,4 @@ if (is_dir($folder)) {
         closedir($dh);
     }
 }
+// test
