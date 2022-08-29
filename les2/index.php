@@ -12,4 +12,3 @@ if (is_dir($folder)) {
         closedir($dh);
     }
 }
-// working with com project №00069
