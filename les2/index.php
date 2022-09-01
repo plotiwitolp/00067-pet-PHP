@@ -12,4 +12,3 @@ if (is_dir($folder)) {
         closedir($dh);
     }
 }
-//  №00069
